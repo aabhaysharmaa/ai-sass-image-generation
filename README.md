@@ -1,4 +1,6 @@
-# ai-sass-image-generation# AI Image Generation
+# AI-sass-image-generation
+<image src="./public/demo.png"><image/>
+
 
 An AI-powered image generation platform built with OpenAI, featuring different image styles, generation history, user accounts, and subscription plans.
 
@@ -47,4 +49,4 @@ An AI-powered image generation platform built with OpenAI, featuring different i
 
 ## Deployment
 
-The project is designed to be easy to deploy and can run using mostly free-tier services.
+The project is designed to be easy to deploy and can run using  free-tier services.
